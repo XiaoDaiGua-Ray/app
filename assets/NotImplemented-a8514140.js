@@ -1,0 +1,1 @@
+import{j as e}from"./index-c08745a0.js";function r(){return e.jsxs(e.Fragment,{children:["Not implemented yet, it will come soon,",e.jsx("a",{href:"https://github.com/Power-Playground/app/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22",target:"_blank",rel:"noreferrer",children:"help us"})]})}export{r as N};
